@@ -207,7 +207,9 @@
 				30,
 				31,
 				33,
-				34
+				34,
+				35,
+				36
 			]
 		}
 	],
@@ -407,6 +409,16 @@
 		{
 			"backtrace" : 1,
 			"path" : "4/leet_4_3ms.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "66/leet_66.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "66/leet_66_second.h",
 			"sourceGroupIndex" : 1
 		}
 	],
